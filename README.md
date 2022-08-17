@@ -4,3 +4,5 @@ python
 hw
 sw
 osa
+hi 
+hello
