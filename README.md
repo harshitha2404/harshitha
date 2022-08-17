@@ -1,2 +1,6 @@
 # harshitha
-hakd;l
+java
+python
+hw
+sw
+osa
